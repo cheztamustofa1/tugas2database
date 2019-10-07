@@ -1,0 +1,23 @@
+1. Sebutkan pengertian dari tuple, attribute dan relation!
+2. Perhatikan Tabel dibawah ini:
+Tabel: Mahasiswa
+
+
+a. Sebutkan attribute dari tabel Mahasiswa!
+b. Sebutkan 3 buah tuple yang terdapat pada tabel Mahasiswa!
+c. Sebutkan 5 buah field yang terdapat pada tabel Mahasiswa!
+
+Apakah pengertian dari Primary Key dan Candidate Key?
+
+
+Jawab:
+
+1. tuple= baris/row atau  Kumpulan elemen-elemen yang saling berkaitan menginformasikan tentang suatu entitas secara lengkap
+   atribute=  ciri atau karakter yang membedakan antara entitas yang satu dengan entitas yang lain nya
+   relation= basis data yang saling berhubungan satu dengan yang lainnya.
+2.
+  a. Nama, Andi Gunawan, Leshi Puspitasari, Maximilianus Anthoni
+  b. NPM, Nama, Jenis Kelamin, Jurusan dan IPK
+  c. Wanita,Akuntansi,3.60, Maximilianus Anthoni, 51319653
+3. Primary key adalahkolom yang akan menjadi identitas dari setiap baris tabel.
+   Candidate key adalah satu atau beberapa kolom di dalam tabel yang bisa mengidentifikasi tiap baris dari tabel tersebut.
